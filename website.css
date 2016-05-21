@@ -1,0 +1,187 @@
+.post1{
+  height: 70px;
+  width: 1350px;
+  background-color: #352828;
+  margin-top: -15px;
+}
+#A1{
+  margin-left: 211px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  padding-top: 15px;
+  color:#FAEBD7
+}
+ul.dropdown li { position: relative; }
+ ul.dropdown,
+ ul.dropdown-inside {
+ list-style-type: none;
+ padding: 0;
+
+ }
+ ul.dropdown-inside {
+ position: absolute;
+ left: -9000px;
+ background-color: rgb(0, 0, 0);
+ }
+ ul.dropdown li.dropdown-top {
+ display: inline;
+ float: left;
+ margin: 0 1px 0 0;
+ margin-left: 168px;
+ color: #FAEBD7
+ }
+ ul.dropdown li.dropdown-top a {
+ padding: 3px 10px 4px;
+ display: block;
+ margin-left: 168px;
+ margin-top: -2px;
+ color: #FAEBD7;
+ font-family: Pompadur, 'Comic Sans MS';
+ font-size: 18px;
+ }
+ ul.dropdown a.dropdown-top { background:#352828}
+ ul.dropdown a.dropdown-top:hover { padding: 2px 10px 5px;}
+ ul.dropdown li.dropdown-top:hover .dropdown-inside {
+ display: block;
+ left: 0;
+ }
+ ul.dropdown .dropdown-inside {  background-color: rgba(0, 0, 0, 0); }
+ ul.dropdown .dropdown-inside a:hover { background: #352828;; }
+
+#A3{
+  margin-left: 760px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#P1{
+  margin-left: 558px;
+  margin-top: -65px;
+  position: absolute;
+}
+#COFFEE{
+  margin-left: 500px;
+  margin-top: -500px;
+  font-family: times newroman;
+  font-size: 30px;
+  color: #FAEBD7;
+}
+#P2{
+  margin-top: -40px;
+  margin-left: -20px;
+  position: absolute;
+}
+#C1{
+  margin-left:20px;
+  position: absolute;
+  margin-top: 50px;
+  font-size: 22px;
+}
+#C2{
+  margin-left: 155px;
+  margin-top: 50px;
+  position: absolute;
+  font-size: 20px;
+}
+#C3{
+  margin-left: 155px;
+  margin-top: 75px;
+  position: absolute;
+  font-size: 20px;
+}
+#C4{
+  margin-left: 155px;
+  margin-top: 100px;
+  position: absolute;
+  font-size: 20px;
+}
+#C5{
+  margin-left: 155px;
+  margin-top: 125px;
+  position: absolute;
+  font-size: 20px;
+}
+#F1{
+  margin-left:20px;
+  position: absolute;
+  margin-top: 180px;
+  font-size: 22px;
+}
+#F2{
+  margin-left: 155px;
+  margin-top: 180px;
+  position: absolute;
+  font-size: 20px;
+}
+#F3{
+  margin-left: 155px;
+  margin-top: 205px;
+  position: absolute;
+  font-size: 20px;
+}
+#I{
+  margin-left: 700px;
+  margin-top: 30px;
+  position: absolute;
+  font-size: 22px;
+}
+#I1{
+  margin-top: 65px;
+  margin-left: 400px;
+  width: 800px;
+  font-size: 15px;
+  font-family: segoe print;
+}
+#PH1{
+  margin-left: 400px;
+  position: absolute;
+  margin-top: 13px;
+  border-radius: 10px;
+}
+#PH2{
+  margin-left: 680px;
+  position: absolute;
+  margin-top: 13px;
+  border-radius: 10px;
+}
+#PH3{
+  margin-left: 950px;
+  position: absolute;
+  margin-top: 13px;
+  border-radius: 10px;
+}
+.menu{
+  margin-left: 600px;
+  position: absolute;
+  height: 20px;
+  width: 80px;
+  margin-top: 210px;
+}
+#m{
+  margin-top: 2px;
+  margin-left: 10px;
+  color: #FAEBD7;
+}
+a.button{
+  font-family: times newroman;
+  color: #FAEBD7;
+  text-align: center;
+  font-size: 20px;
+  cursor:  pointer;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+
+  box-shadow:
+  0 2px 8px rgba(0, 0, 0, 0.5),
+  inset 0 1px rgba(255, 255, 255, 0.3),
+  inset 0 10px rgba(255, 255, 255, 0.2),
+  inset 0 10px 20px rgba(255, 255, 255, 0.25),
+  inset 0 -15px  30px rgba(0, 0, 0, 0.3);
+}
+a.button:hover{
+  opacity: 0.7;
+}
