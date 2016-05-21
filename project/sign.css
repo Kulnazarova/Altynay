@@ -1,0 +1,79 @@
+.post1{
+  height: 70px;
+  width: 1366px;
+  background-color: #352828;
+  margin-top: -18px;
+  margin-left: -8px;
+}
+#A1{
+  margin-left: 211px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  padding-top: 15px;
+  color: #FAEBD7;
+}
+#A2{
+  margin-left:331px;
+  font-size: 20px;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#P1{
+  margin-left: 558px;
+  margin-top: -65px;
+  position: absolute;
+}
+#A3{
+  margin-left: 760px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+.JK{
+  width: 200px;
+  height: 30px;
+  background-color:white;
+}
+.KL{
+  width: 200px;
+  height: 30px;
+  background-color: white;
+  position:relative;
+}
+.K{
+  width: 200px;
+  height: 30px;
+  background-color: white;
+  position:relative;
+}
+.NM{
+  width: 200px;
+  height: 30px;
+  background-color:#352828;
+  color:white;
+  position:relative;
+}
+#L{
+  margin-top:100px;
+  margin-left: 620px;
+  font-size: 30px;
+  color: #FAEBD7;
+}
+body {
+  background-image: url(cava.jpg);
+  background-size: cover;
+  position: relative;
+}
+form.form {
+  height:300px;
+  width:400px;
+  margin: auto;
+  margin-top:50px;
+  margin-left: auto;
+}
+.color {
+  color:red;
+  font-size: 15px;
+}

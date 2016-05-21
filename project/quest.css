@@ -1,0 +1,124 @@
+.post1{
+  height: 70px;
+  width: 1350px;
+  background-color: #352828;
+  margin-top: -15px;
+}
+#A1{
+  margin-left: 211px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  padding-top: 15px;
+  color: #FAEBD7;
+}
+#A2{
+  margin-left:331px;
+  font-size: 20px;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#P1{
+  margin-left: 558px;
+  margin-top: -65px;
+  position: absolute;
+}
+#A3{
+  margin-left: 760px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #F4A460;
+}
+#P2{
+  margin-top: -40px;
+  margin-left: -20px;
+  position: absolute;
+}
+.pr1 {
+ padding: 5px; /* Поля вокруг текста */
+ background:#DEB887;
+ width: 400px;
+ margin-left: 170px;
+ margin-top: -500px;
+ opacity: 0.6; /* Значение прозрачности */
+ filter: alpha(Opacity=60); /* Прозрачность в IE */
+ height: 350px;
+ position: absolute;
+}
+.pr2 {
+ padding: 5px;
+ background:#DEB887;
+ width: 400px;
+ margin-left: 563px;
+ margin-top: -110px;
+ filter: alpha(Opacity=70);
+ height: 350px;
+ position: absolute;
+}
+#CF1{
+  margin-left: 180px;
+  margin-top:  -550px;
+  position: absolute;
+}
+#CF2{
+  margin-left: 750px;
+  margin-top: -550px;
+  position: absolute;
+}
+#CFE1{
+  margin-left: 80px;
+  margin-top: 10px;
+  font-size: 30px;
+  position:relative;
+}
+#pers{
+  margin-left: 20px;
+  font-size: 50px;
+  margin-top: 10px;
+  color: red;
+  position: absolute;
+}
+#pers1{
+  margin-left: 140px;
+  margin-top: 3px;
+  font-size: 25px;
+  position: absolute;
+}
+#CFE2{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 30px;
+  position: absolute;
+}
+#pers2{
+  margin-left: 50px;
+  margin-top: 80px;
+  font-size: 25px;
+  color: red;
+  position: absolute;
+}
+#pers3{
+  margin-left: 50px;
+  margin-top: 120px;
+  font-size: 20px;
+  position: absolute;
+}
+#pers4{
+  margin-left: 50px;
+  margin-top: 150px;
+  font-size: 20px;
+  position: absolute;
+}
+#pers5{
+  margin-left: 50px;
+  margin-top: 180px;
+  font-size: 20px;
+  position: absolute;
+}
+#pers6{
+  margin-left: 50px;
+  margin-top: 210px;
+  font-size: 20px;
+  position: absolute;
+}

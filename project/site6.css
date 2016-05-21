@@ -1,0 +1,139 @@
+.post1{
+  height: 70px;
+  width: 1350px;
+  background-color: #352828;
+  margin-top: -15px;
+}
+#A1{
+  margin-left: 211px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  padding-top: 15px;
+  color: #F4A460;
+}
+#A2{
+  margin-left:331px;
+  font-size: 20px;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#P1{
+  margin-left: 558px;
+  margin-top: -65px;
+  position: absolute;
+}
+#A3{
+  margin-left: 760px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#COFFEE{
+  margin-left: 600px;
+  margin-top: -500px;
+  font-family: times newroman;
+  font-size: 30px;
+  color: #FAEBD7;
+}
+#P2{
+  margin-top: -40px;
+  margin-left: -20px;
+}
+#B1{
+  margin-left: 30px;
+  color:#FAEBD7;
+  font-family: times newroman;
+  font-size: 18px;
+}
+#B2{
+  color:#FAEBD7;
+}
+#P3{
+  margin-left:550px;
+  margin-top:-300px;
+}
+#B3{
+  margin-left: 320px;
+  margin-top: -250px;
+  font-size: 20px;
+  color:#FAEBD7;
+  position: absolute;
+}
+#B4{
+  margin-left: 320px;
+  margin-top: -220px;
+  font-size: 15px;
+  color: black;
+  width: 280px;
+  font-family:segoe print;
+  position: absolute;
+}
+#B5{
+  margin-left: 320px;
+  margin-top: -150px;
+  font-size: 20px;
+  color:#FAEBD7;
+  position: absolute;
+}
+#B6{
+  margin-left: 300px;
+  margin-top: -120px;
+  font-size: 15px;
+  color: black;
+  width: 280px;
+  font-family:segoe print;
+  position: absolute;
+}
+#B7{
+    margin-left: 1000px;
+    margin-top: -250px;
+    font-size: 20px;
+    color:#FAEBD7;
+    position: absolute;
+  }
+#B8{
+    margin-left: 1000px;
+    margin-top: -220px;
+    font-size: 15px;
+    color: black;
+    width: 280px;
+    font-family:segoe print;
+    position: absolute;
+}
+#B9{
+    margin-left: 1000px;
+    margin-top: -100px;
+    font-size: 20px;
+    color:#FAEBD7;
+    position: absolute;
+  }
+#B10{
+    margin-left: 1000px;
+    margin-top: -70px;
+    font-size: 15px;
+    color: black;
+    width: 280px;
+    font-family:segoe print;
+}
+#S1{
+  position: absolute;
+  margin-left: -500px;
+  margin-top: -280px;
+}
+#S3{
+  position: absolute;
+  margin-left: -500px;
+  margin-top: -220px;
+}
+#S2{
+  position: absolute;
+  margin-left: -120px;
+  margin-top: -200px;
+}
+#S4{
+  position: absolute;
+  margin-left: -130px;
+  margin-top: -100px;
+}

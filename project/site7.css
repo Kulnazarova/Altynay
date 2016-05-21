@@ -1,0 +1,114 @@
+.post1{
+  height: 70px;
+  width: 1350px;
+  background-color: #352828;
+  margin-top: -15px;
+}
+#A1{
+  margin-left: 211px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  padding-top: 15px;
+  color: #F4A460;
+}
+#A2{
+  margin-left:331px;
+  font-size: 20px;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#P1{
+  margin-left: 558px;
+  margin-top: -65px;
+  position: absolute;
+}
+#A3{
+  margin-left: 760px;
+  font-size: 20px;;
+  font-family: Pompadur, 'Comic Sans MS';
+  margin-top: -47px;
+  color: #FAEBD7;
+}
+#COFFEE{
+  margin-left: 600px;
+  margin-top: -500px;
+  font-family: times newroman;
+  font-size: 30px;
+  color: #FAEBD7;
+}
+#P2{
+  margin-top: -40px;
+  margin-left: -20px;
+}
+#B1{
+  margin-left: 30px;
+  color:#FAEBD7;
+  font-family: times newroman;
+  font-size: 18px;
+}
+#B2{
+  color:#FAEBD7;
+}
+#P3{
+  margin-left:650px;
+  margin-top:-250px;
+}
+#B3{
+  margin-left: 1000px;
+  margin-top: -300px;
+  font-size: 20px;
+  color:#FAEBD7;
+}
+#B4{
+  margin-left: 1000px;
+  margin-top: -15px;
+  font-size: 15px;
+  color: black;
+  width: 280px;
+  font-family:segoe print;
+}
+#B5{
+  margin-left: 320px;
+  margin-top: -70px;
+  font-size: 20px;
+  color:#FAEBD7;
+}
+#B6{
+  margin-left: 320px;
+  margin-top: -20px;
+  font-size: 15px;
+  color: black;
+  width: 280px;
+  font-family:segoe print;
+}
+#B9{
+    margin-left: 310px;
+    margin-top: -320px;
+    font-size: 20px;
+    color:#FAEBD7;
+    position: relative;
+  }
+#B10{
+    margin-left: 290px;
+    margin-top: -20px;
+    font-size: 15px;
+    color: black;
+    width: 220px;
+    font-family:segoe print;
+}
+#S1{
+  margin-top: -320px;
+  margin-left: -400px;
+  position: absolute;
+}
+#S2{
+  margin-left: -65px;
+  margin-top: -160px;
+  position: absolute;
+}
+#S3{
+  margin-left: -420px;
+  margin-top: -220px;
+  position: absolute;
+}
